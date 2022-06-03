@@ -1,0 +1,21 @@
+{
+    "name": "no-syntax-highlight",
+    "displayName": "No syntax highlight",
+    "description": "Extension with no syntax highlight",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "No syntax highlight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/no-syntax-highlight-color-theme.json"
+            }
+        ]
+    }
+}
