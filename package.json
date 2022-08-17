@@ -2,6 +2,7 @@
     "name": "no-syntax-highlight",
     "displayName": "No syntax highlight",
     "description": "Extension with no syntax highlight",
+    "publisher": "gennad",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"
